@@ -1,0 +1,13 @@
+.cart img {
+    width: 100px;
+}
+.cart {
+    max-width: 200px;
+}
+
+.cart-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
